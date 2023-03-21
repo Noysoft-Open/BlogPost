@@ -1,0 +1,32 @@
+.border-straight
+{
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+  padding: 10px;
+  width: 82.5%;
+}
+.border-round
+{
+
+}
+.bottom-border
+{
+
+}
+.container
+{
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  width: 82.5%;
+}
+.frame-border
+{
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+  margin: 10px;
+  height: 300px;
+  width: 300px;
+}
