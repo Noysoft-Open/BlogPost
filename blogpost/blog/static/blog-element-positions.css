@@ -1,0 +1,25 @@
+body
+{
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+header
+{
+  display: block;
+  position: relative;
+  right: 40%;
+}
+
+div
+{
+  display: inline-block;
+  position: relative;
+}
+
+footer
+{
+  display: block;
+  position: relative;
+}
