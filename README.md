@@ -1,0 +1,2 @@
+# BlogPost
+Django Web Application
